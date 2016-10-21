@@ -1,5 +1,9 @@
+.up {
+text-align: center;
+}
+
 .background{
-background-image: url(https://goo.gl/NM8dll); /* Путь к фоновому изображению */
+background-image: url(https://pp.vk.me/c636826/v636826040/3bed6/32TZDrJPTP8.jpg); /* Путь к фоновому изображению */
 background-attachment: fixed; /* Фиксирую фон веб-страницы */
 background-repeat: no-repeat; background-position: top;
 background-size:  100% auto; /* auto */
