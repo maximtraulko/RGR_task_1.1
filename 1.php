@@ -1,8 +1,8 @@
 <html>
-	<HEAD>
+	<head>
 		<meta charset ="UTF-8"><link rel = "stylesheet" href = "index.css">
 		<TITLE> Список напитков </title>
-	</HEAD>
+	</head>
 	<body class="background">
 		<?php
 			$items = [
