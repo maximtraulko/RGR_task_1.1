@@ -74,6 +74,6 @@
 			}	
 		echo "</div>";
 		?>
-		<p class="up"><a href="#"> В начало страницы </a></p>
+		<div class="up"><a href="#"> В начало страницы </a></div>
 	</body>
 </html>
